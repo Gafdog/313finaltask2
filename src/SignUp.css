@@ -1,0 +1,11 @@
+.loginitems{
+    
+    text-align: center;
+
+}
+  
+.signup{
+    text-align: right !important;
+    float: right;
+    margin-right: 30px;
+  }

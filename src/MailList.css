@@ -1,0 +1,17 @@
+.header-div{
+    background-color: rgb(170, 170, 170);
+    }
+
+.words{
+   text-align: left;
+   font-size: 25px;
+
+   
+}
+
+.email{
+    float: right;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,33 @@
+.header-div{
+    background-color: grey;
+    
+    
+
+}
+
+.title{
+   text-align: left;
+   
+}
+
+.links{
+    float: right!important;
+    color: blue !important;
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+}
+
+.row{
+    display: flex;
+    
+}
+
+.column{
+    
+    flex: 33.33%;
+    padding-left: 40px;
+    
+
+    
+    
+}

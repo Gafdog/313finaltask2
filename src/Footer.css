@@ -1,0 +1,71 @@
+.footer-div{
+    background-color: grey;
+    
+    
+    
+}
+
+.title{
+   size: 50px;
+   
+}
+
+.linksfooter{
+    color: black;
+    padding-left: 10px;
+    
+    float: left;
+}
+
+.row{
+    display: flex;
+    
+}
+
+.column{
+    
+    flex: 33.33%;
+    padding-left: 40px;
+    
+
+    
+    
+}
+.left{
+    text-align: left;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.right{
+    text-align: right;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.middle{
+    text-align: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.ui.table td {
+    border: none;
+  }
+
+  .borderless-table {
+    border-collapse: collapse !important; /* Collapse cell borders */
+   
+  }
+  
+  .borderless-table, .borderless-table th, .borderless-table td {
+    border: none !important; /* Remove all borders */
+    background: gray !important; /* Apply gray background */
+  }
+
+  .borderless-table thead th {
+    background: gray !important; /* Apply gray background to header cells */
+  }
+
